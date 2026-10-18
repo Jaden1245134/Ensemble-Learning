@@ -1,6 +1,6 @@
 # Random Forest for Network Attack Classification
 
-Machine Learning assignment 3 (chose option 1, ensemble learning). A random forest is
+Machine Learning assignment (chose option 1, ensemble learning). A random forest is
 implemented from scratch in NumPy (no scikit-learn) and compared with a decision
 tree and a k-nearest-neighbour classifier on the UNSW-NB15-style
 `networkTraffic.csv` data set (10 classes: Normal and nine attack types).
